@@ -1,0 +1,137 @@
+{
+    "statusCode": 200,
+    "message": "successfully retreive all documents.",
+    "data": [
+        {
+            "_id": "616d40576b8cd2b8e54bd1df",
+            "board": "CBSE",
+            "class": "10th",
+            "subject": "Mathematics",
+            "chapter": "Real Numbers",
+            "topics": [
+                "Introduction"
+            ],
+            "category": "BASIC UNDERSTANDING",
+            "level": "EASY",
+            "marks": 1
+        },
+        {
+            "_id": "616d45726b8cd2b8e54bd1ea",
+            "board": "CBSE",
+            "class": "10th",
+            "subject": "Mathematics",
+            "chapter": "Real Numbers",
+            "topics": [
+                "Euclid's division lemma"
+            ],
+            "category": "CRITICAL ANALYSIS",
+            "level": "MEDIUM",
+            "marks": 10
+        },
+        {
+            "_id": "616d4b3a6b8cd2b8e54bd1f5",
+            "board": "CBSE",
+            "class": "12th",
+            "subject": "english",
+            "chapter": "chapter 1",
+            "topics": [
+                "grammer"
+            ],
+            "category": "mc",
+            "level": "hello",
+            "marks": 1
+        },
+        {
+            "_id": "616d4b3a6b8cd2b8e54bd1fa",
+            "board": "CBSE",
+            "class": "12th",
+            "subject": "english",
+            "chapter": "chapter 1",
+            "topics": [
+                "grammer"
+            ],
+            "category": "mc",
+            "level": "hello",
+            "marks": 1
+        },
+        {
+            "_id": "616d4bbd6b8cd2b8e54bd200",
+            "board": "CBSE",
+            "class": "12th",
+            "subject": "english",
+            "chapter": "chapter 1",
+            "topics": [
+                "grammer"
+            ],
+            "category": "mc",
+            "level": "hello",
+            "marks": 1
+        },
+        {
+            "_id": "616d4bbd6b8cd2b8e54bd205",
+            "board": "CBSE",
+            "class": "12th",
+            "subject": "english",
+            "chapter": "chapter 1",
+            "topics": [
+                "grammer"
+            ],
+            "category": "mc",
+            "level": "hello",
+            "marks": 1
+        },
+        {
+            "_id": "616d509b6b8cd2b8e54bd20b",
+            "board": "CBSE",
+            "class": "12th",
+            "subject": "english",
+            "chapter": "chapter 1",
+            "topics": [
+                "grammer"
+            ],
+            "category": "mc",
+            "level": "hello",
+            "marks": 1
+        },
+        {
+            "_id": "616d509b6b8cd2b8e54bd210",
+            "board": "CBSE",
+            "class": "12th",
+            "subject": "english",
+            "chapter": "chapter 1",
+            "topics": [
+                "grammer"
+            ],
+            "category": "mc",
+            "level": "hello",
+            "marks": 1
+        },
+        {
+            "_id": "616d599f614d37c473d781c2",
+            "board": "CBSE",
+            "class": "10th",
+            "subject": "Mathematics",
+            "chapter": "Real Numbers",
+            "topics": [
+                "Introduction"
+            ],
+            "category": "BASIC UNDERSTANDING",
+            "level": "EASY",
+            "marks": 1
+        },
+        {
+            "_id": "616d5a7d614d37c473d781cb",
+            "board": "Entrance Exam",
+            "class": "NEET",
+            "subject": "Biology",
+            "chapter": "The Living World",
+            "topics": [
+                "What is living?"
+            ],
+            "category": "CONCEPTUAL CLARITY",
+            "level": "EASY",
+            "marks": 1
+        }
+    ],
+    "status": true
+}
